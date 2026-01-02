@@ -27,7 +27,7 @@ The project utilizes a subset of the **Free Music Archive (FMA)** dataset, proce
 * **Zero-Padding** and **Packing Sequences** to handle variable-length audio inputs in PyTorch.
 
 <p align="center">
-  <img src="images/spectrograms.png" alt="Mel Spectrogram Example" width="600">
+  <img src="images/spectrograms.PNG" alt="Mel Spectrogram Example" width="600">
 </p>
 
 ### 2. Architecture Comparison (Genre Classification)
